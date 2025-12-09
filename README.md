@@ -1,7 +1,7 @@
 # MMCS-VD: LLM-Enhanced Multimodal Feature Fusion with Meta-Learning for Code Vulnerability Detection
 
 ## Overview
-This repository contains the code for the paper **"Enhancing Vulnerability Detection via Multi-modal Fusion and Meta-Learning"**. 
+This repository contains the code for the paper **" MMCS-VD: LLM-Enhanced Multimodal Feature Fusion with Meta-Learning for Code Vulnerability Detection"**. 
 
 ## Prerequisites
 To run this project, you need to install the following dependencies:
